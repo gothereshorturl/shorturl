@@ -12,5 +12,5 @@
 <br>SUPPORTED XDAR ADS</br>
 <br>SUPPORTED iframe ADS</br>
 <br>DEBUG DARK MODE (DARK MODE IS FOR DEV. USER)</br>
-<br>Real-time comment area</br>
+<br>Real-time comment area(you need to add your db)</br>
 <br>SUPPORTED GOOGLE SEARCH BAR ON TOP OF NEWS</br>
