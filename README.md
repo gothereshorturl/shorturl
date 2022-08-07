@@ -4,7 +4,7 @@
 <br>In index.js the our mainUI and system.</br>
 <br>If you want yo use it, please sent email to: report-shorturl@nson.ga to add your short url!</br>
 <br>Go There Short URL Open Source Team.</br>
-<br>API, Index.JS, GoThereShortURL is base on xyTom/Url-Shorten-Worker</br>
+<br>API, Index.JS, GoThereShortURL is base on Xdar Dev.</br>
 
 # New UPDATE
 <br>FASTER LOAD</br>
